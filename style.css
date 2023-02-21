@@ -1,0 +1,186 @@
+
+.topnav {
+	text-align: right;
+	padding: 10px 10px;
+	background-color: transparent;
+	font-style: normal;
+	font-size: 30px;
+	font-weight: 700;
+	letter-spacing: .1rem;
+}
+
+.topnav a {
+	color: black;
+	padding: 15px 15px;
+	border-radius: 100px;
+	text-align: center;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+	color: #F2E9CE;
+  background-color: black;
+  text-decoration: none;
+  pointer
+}
+
+/*.topnav a.active {
+  color: black;
+  background-color: #F2E9CE;
+  text-decoration: none;
+}*/
+
+
+header{
+	font-size: 90px;
+	font-weight: 1000;
+	font-style: normal;
+	display: inline;
+}
+
+h1{
+	font-size: 90px;
+	font-weight: 1000;
+	font-style: normal;
+	text-align: right;
+}
+
+h2 {
+	font-size: 80px;
+	font-weight: 1000;
+	font-style: bold;
+	text-align: center;
+}
+
+h3 {
+	font-size: 25px;
+	font-weight: 500;
+	font-style: italic;
+	text-align: center;
+}
+
+h4{
+	font-size: 60px;
+	font-weight: 1000;
+	font-style: normal;
+	text-align: inline;
+	margin: 50px;
+}
+
+body {
+	background-color:#F2E9CE;
+	background-image: url('background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+	font-family: "basic-sans", snas-serif;
+}
+
+
+.button {
+	font-size: 40px;
+	font-family: "basic-sans", snas-serif;
+	font-style: bold;
+	font-weight: 700;
+  background-color: transparent;
+  border: black;
+  border-style: dashed;
+  color: black;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 100px;
+  margin: 20px 20px;
+}
+
+.button:hover {
+  background-color: #FFFFFF;
+  color:#black;
+}
+
+.buttonB {
+	font-size: 25px;
+	font-family: "basic-sans", snas-serif;
+	font-style: bold;
+	font-weight: 700;
+  background-color: #FFFFFF;
+  border: black;
+  border-style: dashed;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 100px;
+  margin: 10px 10px;
+}
+
+.buttonB:hover {
+  background-color: transparent;
+  color:black;
+}
+
+.buttonC {
+	font-size: 30px;
+	font-family: "basic-sans", snas-serif;
+	font-style: bold;
+	font-weight: 700;;
+  border: black;
+  border-style: dashed;
+  color: black;
+  padding: 80px 60px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 400px;
+  margin: 20px 20px;
+}
+
+.buttonC:hover {
+  background-color: #FFFFFF;
+  color:black;
+}
+
+.buttons {
+	display: inline-block;
+}
+
+
+.astor {
+	height: 200px; 
+	width: 200px;
+	display: inline;
+}
+
+.smallastor {
+	height: 100px; 
+	width: 100px;
+	display: inline;
+}
+
+
+.list {
+	text-align: center;
+	font-size: 30px;
+	font-weight: 700;
+	font-style: normal;
+}
+
+ul.myList {
+  display: inline-block;
+  text-align: left;
+}
+
+
+#div1 {
+    display: inline-block;
+    margin: 50px;
+}
+
+#div2 {
+    display: inline-block;
+    margin: 50px;
+}
+
+#div3 {
+    display: inline-block;    
+    margin: 50px;
+}
